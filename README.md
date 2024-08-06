@@ -16,5 +16,10 @@
 
 ## Generative AI with Large Language Models
 
+HTML file can be visualised via https://html-preview.github.io/?url=
+
 * [Course website](https://www.coursera.org/learn/generative-ai-with-llms)
 * [Course material](gen-ai-with-llm)
+* [Lab 1](https://html-preview.github.io/?url=https://github.com/shenghaowang/coursera-ds-course-materials/blob/master/gen-ai-with-llm/Lab_1_summarize_dialogue.html)
+* [Lab 2](https://html-preview.github.io/?url=https://github.com/shenghaowang/coursera-ds-course-materials/blob/master/gen-ai-with-llm/Lab_2_fine_tune_generative_ai_model.html)
+* [Lab 3](https://html-preview.github.io/?url=https://github.com/shenghaowang/coursera-ds-course-materials/blob/master/gen-ai-with-llm/Lab_3_fine_tune_model_to_detoxify_summaries.html)
