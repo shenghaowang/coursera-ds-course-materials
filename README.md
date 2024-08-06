@@ -1,5 +1,10 @@
 # Collection of Coursera Data Science Course Materials
 
+## Introduction to Data Science in Python
+
+* [Course website](https://www.coursera.org/learn/python-data-analysis)
+* [Course material](intro-to-ds-in-python)
+
 ## Deep Learning Specialization
 
 * [Course website](https://www.coursera.org/specializations/deep-learning)
