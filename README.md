@@ -16,7 +16,7 @@
 
 ## Generative AI with Large Language Models
 
-HTML file can be visualised via https://html-preview.github.io/?url=
+HTML file can be visualised via https://html-preview.github.io/
 
 * [Course website](https://www.coursera.org/learn/generative-ai-with-llms)
 * [Course material](gen-ai-with-llm)
