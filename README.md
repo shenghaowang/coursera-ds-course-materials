@@ -27,5 +27,8 @@ HTML file can be visualised via https://html-preview.github.io/
 ## Embedding Models: From Architecture to Implementation
 
 * [Course website](https://www.deeplearning.ai/short-courses/embedding-models-from-architecture-to-implementation/)
-* [Lesson 2 Contextualized token embeddings](embedding-models-from-architecture-to-implementation/Lesson_2.ipynb)
-* [Lesson 3 Token vs. sentence embedding](embedding-models-from-architecture-to-implementation/Lesson_3.ipynb)
+* [Course material](embedding-models-from-architecture-to-implementation)
+* [Lesson 2 Contextualized token embeddings](https://html-preview.github.io/?url=https://github.com/shenghaowang/coursera-ds-course-materials/blob/master/embedding-models-from-architecture-to-implementation/Lesson_2.html)
+* [Lesson 3 Token vs. sentence embedding](https://html-preview.github.io/?url=https://github.com/shenghaowang/coursera-ds-course-materials/blob/master/embedding-models-from-architecture-to-implementation/Lesson_3.html)
+* [Lesson 4 Training a dual encoder](https://html-preview.github.io/?url=https://github.com/shenghaowang/coursera-ds-course-materials/blob/master/embedding-models-from-architecture-to-implementation/Lesson_4.html)
+* [Lesson 5 Using embeddings in RAG](https://html-preview.github.io/?url=https://github.com/shenghaowang/coursera-ds-course-materials/blob/master/embedding-models-from-architecture-to-implementation/Lesson_5.html)
