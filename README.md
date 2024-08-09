@@ -32,7 +32,7 @@ HTML file can be visualised via https://html-preview.github.io/
 * [Lesson 3 Iterative](https://html-preview.github.io/?url=https://github.com/shenghaowang/coursera-ds-course-materials/blob/master/chatgpt-prompt-engineering-for-developers/l3-iterative-prompt-development.html)
 * [Lesson 4 Summarizing](https://html-preview.github.io/?url=https://github.com/shenghaowang/coursera-ds-course-materials/blob/master/chatgpt-prompt-engineering-for-developers/l4-summarizing.html)
 * [Lesson 5 Inferring](https://html-preview.github.io/?url=https://github.com/shenghaowang/coursera-ds-course-materials/blob/master/chatgpt-prompt-engineering-for-developers/l5-inferring.html)
-* [Lesson 6 Transforming](https://html-preview.github.io/?url=https://github.com/shenghaowang/coursera-ds-course-materials/blob/master/chatgpt-prompt-engineering-for-developers/l2-transforming.html)
+* [Lesson 6 Transforming](https://html-preview.github.io/?url=https://github.com/shenghaowang/coursera-ds-course-materials/blob/master/chatgpt-prompt-engineering-for-developers/l6-transforming.html)
 * [Lesson 7 Expanding](https://html-preview.github.io/?url=https://github.com/shenghaowang/coursera-ds-course-materials/blob/master/chatgpt-prompt-engineering-for-developers/l7-expanding.html)
 * [Lesson 8 Chatbot](https://html-preview.github.io/?url=https://github.com/shenghaowang/coursera-ds-course-materials/blob/master/chatgpt-prompt-engineering-for-developers/l8-chatbot.html)
 
