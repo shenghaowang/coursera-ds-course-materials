@@ -24,6 +24,18 @@ HTML file can be visualised via https://html-preview.github.io/
 * [Lab 2](https://html-preview.github.io/?url=https://github.com/shenghaowang/coursera-ds-course-materials/blob/master/gen-ai-with-llm/Lab_2_fine_tune_generative_ai_model.html)
 * [Lab 3](https://html-preview.github.io/?url=https://github.com/shenghaowang/coursera-ds-course-materials/blob/master/gen-ai-with-llm/Lab_3_fine_tune_model_to_detoxify_summaries.html)
 
+## ChatGPT Prompt Engineering for Developers
+
+* [Course website](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+* [Course material](chatgpt-prompt-engineering-for-developers)
+* [Lesson 2 Guidelines](https://html-preview.github.io/?url=https://github.com/shenghaowang/coursera-ds-course-materials/blob/master/chatgpt-prompt-engineering-for-developers/l2-guidelines.html)
+* [Lesson 3 Iterative](https://html-preview.github.io/?url=https://github.com/shenghaowang/coursera-ds-course-materials/blob/master/chatgpt-prompt-engineering-for-developers/l3-iterative-prompt-development.html)
+* [Lesson 4 Summarizing](https://html-preview.github.io/?url=https://github.com/shenghaowang/coursera-ds-course-materials/blob/master/chatgpt-prompt-engineering-for-developers/l4-summarizing.html)
+* [Lesson 5 Inferring](https://html-preview.github.io/?url=https://github.com/shenghaowang/coursera-ds-course-materials/blob/master/chatgpt-prompt-engineering-for-developers/l5-inferring.html)
+* [Lesson 6 Transforming](https://html-preview.github.io/?url=https://github.com/shenghaowang/coursera-ds-course-materials/blob/master/chatgpt-prompt-engineering-for-developers/l2-transforming.html)
+* [Lesson 7 Expanding](https://html-preview.github.io/?url=https://github.com/shenghaowang/coursera-ds-course-materials/blob/master/chatgpt-prompt-engineering-for-developers/l7-expanding.html)
+* [Lesson 8 Chatbot](https://html-preview.github.io/?url=https://github.com/shenghaowang/coursera-ds-course-materials/blob/master/chatgpt-prompt-engineering-for-developers/l8-chatbot.html)
+
 ## Embedding Models: From Architecture to Implementation
 
 * [Course website](https://www.deeplearning.ai/short-courses/embedding-models-from-architecture-to-implementation/)
